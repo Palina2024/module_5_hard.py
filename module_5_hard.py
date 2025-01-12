@@ -107,16 +107,3 @@ print(ur.current_user)
 
 # Попытка воспроизведения несуществующего видео
 ur.watch_video('Лучший язык программирования 2024 года!')
-
-
-
-
-
-
-
-
-
-# user1 = User('Palina', 'pol', 19)
-# v1 = Video('Video', 10, 3)
-# print(user1.nickname, user1.password, user1.age)
-# print(v1.title, v1.duration, v1.time_now, v1.adult_mode)
